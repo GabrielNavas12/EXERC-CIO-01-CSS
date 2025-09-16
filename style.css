@@ -1,0 +1,32 @@
+header h1{
+    color: rgb(8, 8, 97);
+    text-align: center;
+}
+header p{
+    text-align: center;
+}
+body{
+    background-color: rgb(242, 238, 238);
+}
+.postagem1{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px;
+}
+.postagem1 h2{
+    color: red;
+}
+.postagem2 h2{
+    color: red;
+}
+.postagem2 {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    margin: 15px;
+}
+.footer{
+    text-align: center;
+    color: rgb(111, 114, 114);
+}
