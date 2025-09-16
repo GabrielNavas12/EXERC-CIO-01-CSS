@@ -1,32 +1,47 @@
-header h1{
-    color: rgb(8, 8, 97);
-    text-align: center;
+/* Estilo para o título principal (h1) dentro do cabeçalho */
+header h1 {
+    color: rgb(8, 8, 97);          
+    text-align: center;          
 }
-header p{
-    text-align: center;
+
+/* Estilo para parágrafos dentro do cabeçalho */
+header p {
+    text-align: center;          
 }
-body{
-    background-color: rgb(242, 238, 238);
+
+/* COR DE FUNDO DA PÁGINA */
+body {
+    background-color: rgb(242, 238, 238);  
 }
-.postagem1{
+
+/* Estilo para o bloco de postagem 1 */
+.postagem1 {
     background-color: white;
-    border-radius: 10px;
-    padding: 10px;
-    margin: 15px;
+    border-radius: 10px;         
+    padding: 10px;               
+    margin: 15px;               
 }
-.postagem1 h2{
-    color: rgb(121, 6, 6);
+
+/* Estilo para o título (h2) dentro da postagem 1 */
+.postagem1 h2 {
+    color: rgb(121, 6, 6);      
 }
-.postagem2 h2{
-    color: rgb(121, 6, 6);
+
+/* Estilo para o título (h2) dentro da postagem 2 */
+.postagem2 h2 {
+    color: rgb(121, 6, 6);      
 }
+
+/* Estilo para o bloco de postagem 2 */
 .postagem2 {
-    border-radius: 10px;
+    border-radius: 10px;        
     padding: 10px;
-    background-color: white;
-    margin: 15px;
+    background-color: white;    
+    margin: 15px;                
 }
-.footer{
-    text-align: center;
-    color: rgb(111, 114, 114);
+
+/* Estilo para o rodapé */
+.footer {
+    text-align: center;         
+    color: rgb(111, 114, 114);   
 }
